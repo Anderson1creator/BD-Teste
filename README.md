@@ -268,14 +268,14 @@ Sendo está a forma como os funcionarios veram as fichas no sistema.
 <h2>🗄️ Como adentrar no servidor</h2>
 
 <ol>
-<li> Entre no pgAdmin 4 no PostgreSQL</li>
-<li> Abra a parte Servers e registre um server</li>
-<li> Coloque um nome e siga para a aba connection</li>
+<li> Entre no pgAdmin4 no PostgreSQL</li>
+<li> Abra a parte de <b>Servers</b> e registre um server</li>
+<li> Coloque um <b>nome</b> e siga para a aba <b>connection</b></li>
 <li> Preencha o hostname com <code>dpg-d894s8ugvqtc73bl081g-a.oregon-postgres.render.com</code></li>
-<li> Após isso, insira o Maintenance database comn <code>psicologia1</code></li>
-<li> Em Username coloque <code>admin</code></li>
+<li> Após isso, insira o Maintenance database comn <b>psicologia1</b></li>
+<li> Em Username coloque <b>admin</b></li>
 <li> Insira está senha, <code>zLNjE5GE7MVUGXsvkFBZDtOb39QFPHaX</code></li>
-<li> Aperte no botão save</li>
+<li> Aperte no botão <b>save</b></li>
 </ol>
 
 <hr>
