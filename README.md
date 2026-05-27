@@ -26,6 +26,9 @@ A estrutura foi planejada para atender tanto a parte clínica quanto a administr
 Além das tabelas relacionais, o projeto também utiliza procedures, functions, triggers e views para automatizar processos, validar dados e facilitar a geração de relatórios.
 </p>
 
+<p align="center">
+<img width="600" alt="WhatsApp Image 2026-05-26 at 15 52 33" src="https://github.com/user-attachments/assets/c212f376-6ce8-4a49-b493-f9702fcc5fe7" />
+</p>
 <hr>
 
 <h2>🗂️ Estrutura das Tabelas</h2>
@@ -34,8 +37,7 @@ Além das tabelas relacionais, o projeto também utiliza procedures, functions, 
 <p>Armazena os dados cadastrais dos pacientes atendidos pela clínica.</p>
 
 <p align="center">
-<img src="./imagens/pacientes.png" width="900">
-<img src="./imagens/pacientes.png" width="900">
+<img width="600" alt="tablea pac 2" src="https://github.com/user-attachments/assets/74d8d40f-7346-4b85-b146-6f5018d55d81" />
 </p>
 
 <hr>
@@ -44,7 +46,7 @@ Além das tabelas relacionais, o projeto também utiliza procedures, functions, 
 <p>Contém os dados dos profissionais responsáveis pelos atendimentos.</p>
 
 <p align="center">
-<img src="./imagens/psicologos.png" width="900">
+<img width="650" alt="Captura de tela 2026-05-26 223519" src="https://github.com/user-attachments/assets/b76f38b2-bb37-4bd5-9c14-668827e794d1" />
 </p>
 
 <hr>
@@ -53,7 +55,7 @@ Além das tabelas relacionais, o projeto também utiliza procedures, functions, 
 <p>Registra agendamentos, retornos, atendimentos realizados, cancelados ou pendentes.</p>
 
 <p align="center">
-<img src="./imagens/consultas.png" width="900">
+<img width="650" alt="Captura de tela 2026-05-26 223638" src="https://github.com/user-attachments/assets/98dd037e-46ba-46c2-bc02-b7e1c2d383a5" />
 </p>
 
 <hr>
@@ -64,7 +66,7 @@ Tabela responsável pelo registro da avaliação clínica inicial dos pacientes,
 </p>
 
 <p align="center">
-<img src="./imagens/anamneses.png" width="900">
+<img width="700" alt="Captura de tela 2026-05-26 223844" src="https://github.com/user-attachments/assets/f9b93ae8-9d82-4862-be63-280f918ae29b" />
 </p>
 
 <hr>
@@ -73,7 +75,7 @@ Tabela responsável pelo registro da avaliação clínica inicial dos pacientes,
 <p>Controla os pagamentos vinculados às consultas realizadas.</p>
 
 <p align="center">
-<img src="./imagens/pagamentos.png" width="900">
+<img width="600" alt="Captura de tela 2026-05-26 224048" src="https://github.com/user-attachments/assets/300f89ec-9557-47cc-a846-7407fa0062b1" />
 </p>
 
 <hr>
@@ -82,7 +84,7 @@ Tabela responsável pelo registro da avaliação clínica inicial dos pacientes,
 <p>Registra despesas administrativas e operacionais da clínica.</p>
 
 <p align="center">
-<img src="./imagens/despesas.png" width="900">
+<img width="620" alt="Captura de tela 2026-05-26 224610" src="https://github.com/user-attachments/assets/50f3fb0c-f74a-4a18-9582-befb6a3812ba" />
 </p>
 
 <hr>
@@ -91,7 +93,7 @@ Tabela responsável pelo registro da avaliação clínica inicial dos pacientes,
 <p>Gerencia materiais utilizados no funcionamento interno da clínica.</p>
 
 <p align="center">
-<img src="./imagens/estoque.png" width="900">
+<img width="650" alt="Captura de tela 2026-05-26 224716" src="https://github.com/user-attachments/assets/d0fdd73b-5656-4fab-b725-a0e649b6a3dc" />
 </p>
 
 <hr>
@@ -127,20 +129,10 @@ Retorna o total de anamneses registradas.
 <b>total_produtos_estoque()</b><br>
 Retorna a quantidade total de produtos presentes no estoque.
 </li>
-
-<li>
-<b>validar_cpf()</b><br>
-Garante que o CPF esteja preenchido antes do cadastro.
-</li>
-
-<li>
-<b>verificar_estoque_minimo()</b><br>
-Verifica se um produto está abaixo da quantidade mínima definida.
-</li>
 </ul>
 
 <p align="center">
-<img src="./imagens/functions.png" width="900">
+<img width="600" alt="Captura de tela 2026-05-26 225856" src="https://github.com/user-attachments/assets/156ac43c-1742-4290-8ad1-ad2248809236" />
 </p>
 
 <hr>
@@ -213,7 +205,7 @@ Resume receitas, despesas e lucro líquido da clínica.
 </ul>
 
 <p align="center">
-<img src="./imagens/views.png" width="900">
+<img width="600" alt="Captura de tela 2026-05-26 230945" src="https://github.com/user-attachments/assets/1a1e82f4-bc38-4b96-a6b0-f5e6aad7adbf" />
 </p>
 
 <hr>
@@ -236,7 +228,7 @@ Com elas, a aplicação pode executar chamadas simples para registrar informaç�
 </ul>
 
 <p align="center">
-<img src="./imagens/procedures.png" width="900">
+<img width="700" alt="Captura de tela 2026-05-26 232006" src="https://github.com/user-attachments/assets/8cc73882-2a1b-4560-a582-a8a237181e1e" />
 </p>
 
 <hr>
@@ -251,8 +243,12 @@ Abaixo um exemplo de execução do banco em funcionamento no PostgreSQL.
 A imagem pode mostrar uma procedure sendo executada, uma view sendo consultada ou uma trigger funcionando automaticamente após um insert.
 </p>
 
+<p>
+Sendo está a forma como os funcionarios veram as fichas no sistema.
+</p>
+
 <p align="center">
-<img src="./imagens/exemplo_funcionando.png" width="950">
+<img width="650" alt="Captura de tela 2026-05-26 232512" src="https://github.com/user-attachments/assets/3bc783d8-0c94-4b91-902e-60a2b7dc0320" />
 </p>
 
 <hr>
@@ -268,6 +264,19 @@ A imagem pode mostrar uma procedure sendo executada, uma view sendo consultada o
 </ol>
 
 <hr>
+
+<h2>🗄️ Como adentrar no servidor</h2>
+
+<ol>
+<li> Entre no pgAdmin 4 no PostgreSQL</li>
+<li> Abra a parte Servers e registre um server</li>
+<li> Coloque um nome e siga para a aba connection</li>
+<li> Preencha o hostname com dpg-d894s8ugvqtc73bl081g-a.oregon-postgres.render.com</li>
+<li> Após isso, insira o Maintenance database comn psicologia1</li>
+<li> Em Username coloque admin</li>
+<li> Insira está senha, zLNjE5GE7MVUGXsvkFBZDtOb39QFPHaX</li>
+<li> Aperte no botão save</li>
+</ol>
 
 <h2>📊 Funcionalidades atendidas</h2>
 
