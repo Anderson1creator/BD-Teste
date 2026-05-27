@@ -272,9 +272,9 @@ Sendo está a forma como os funcionarios veram as fichas no sistema.
 <li> Abra a parte Servers e registre um server</li>
 <li> Coloque um nome e siga para a aba connection</li>
 <li> Preencha o hostname com <code>dpg-d894s8ugvqtc73bl081g-a.oregon-postgres.render.com</code></li>
-<li> Após isso, insira o Maintenance database comn psicologia1</li>
-<li> Em Username coloque admin</li>
-<li> Insira está senha, zLNjE5GE7MVUGXsvkFBZDtOb39QFPHaX</li>
+<li> Após isso, insira o Maintenance database comn <code>psicologia1</code></li>
+<li> Em Username coloque <code>admin</code></li>
+<li> Insira está senha, <code>zLNjE5GE7MVUGXsvkFBZDtOb39QFPHaX</code></li>
 <li> Aperte no botão save</li>
 </ol>
 
