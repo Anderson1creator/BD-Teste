@@ -35,6 +35,7 @@ Além das tabelas relacionais, o projeto também utiliza procedures, functions, 
 
 <p align="center">
 <img src="./imagens/pacientes.png" width="900">
+<img src="./imagens/pacientes.png" width="900">
 </p>
 
 <hr>
