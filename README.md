@@ -271,7 +271,7 @@ Sendo está a forma como os funcionarios veram as fichas no sistema.
 <li> Entre no pgAdmin 4 no PostgreSQL</li>
 <li> Abra a parte Servers e registre um server</li>
 <li> Coloque um nome e siga para a aba connection</li>
-<li> Preencha o hostname com dpg-d894s8ugvqtc73bl081g-a.oregon-postgres.render.com</li>
+<li> Preencha o hostname com <code>dpg-d894s8ugvqtc73bl081g-a.oregon-postgres.render.com</code></li>
 <li> Após isso, insira o Maintenance database comn psicologia1</li>
 <li> Em Username coloque admin</li>
 <li> Insira está senha, zLNjE5GE7MVUGXsvkFBZDtOb39QFPHaX</li>
