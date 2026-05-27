@@ -278,6 +278,8 @@ Sendo está a forma como os funcionarios veram as fichas no sistema.
 <li> Aperte no botão save</li>
 </ol>
 
+<hr>
+
 <h2>📊 Funcionalidades atendidas</h2>
 
 ✅ Cadastro de pacientes<br>
